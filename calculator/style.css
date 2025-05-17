@@ -1,0 +1,78 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+    .container {
+        width: 80vw;
+        height: 80vh;
+       background: url(./grid.png);
+       background-size: 30px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .content{
+        width: 60vh;
+        height: 70vh;
+       background-color: rgb(29, 29, 216);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+.calculator{
+    padding: 20px;
+    border: 2px solid white;
+    border-radius: 16px;
+    box-shadow: 0px 3px 15px rgba(0,0,0,0.5);
+
+}
+input{
+    width: 320px;
+    padding: 24px;
+    margin: 10px;
+    background: white;
+    box-shadow: inset0px 0px 8px rgba(0,0,0,0.4);
+    font-size: 69px;
+    font-weight: bold;
+    text-align: right;
+    color: black;
+    border: solid 2px white;
+    border-radius : 16px;
+    text-shadow: 0px 1px 5px rgba(0,0,0,0.2);
+}
+input::placeholder{
+    color:black;
+}
+
+button{
+    width: 60px;
+    height: 0px;
+    margin: 10px;
+    color: #fff;
+    background:rgb(100, 100, 231);
+    font-size: 70px;
+    font-weight: bold;
+    cursor: pointer;
+    border: solid 1px white;
+    border-radius: 64px;
+    
+    text-shadow: 0px 1px 5px rgba(0,0,0,0.2);
+    box-shadow: -1px 2px 10px rgba(0,0,0,0.5);
+}
+.ac,.del{
+    font-size: 60px;
+}
+button:hover{
+    
+        border:1.5px solid white;
+    }
+
+.equalBtn{
+    background: white;
+}
+.operator{
+    color: white;
+}

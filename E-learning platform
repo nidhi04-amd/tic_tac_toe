@@ -1,0 +1,415 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="33.css"> </link>
+    
+</head>
+<body style="background-color: pink;">
+    <div class="header-content">
+        <a href="#logo" class="logo">
+            <img src="../image/image.png" alt="logoimage" class="logo-icon" />
+            <span class="logo-text">StudySync</span>
+        </a>
+
+        <nav class="nav">
+            <a href="#home" class="nav-link"> Home</a>
+            <a href="#features" class="nav-link"> Features</a>
+            <a href="#pricing" class="nav-link"> pricing</a>
+            <a href="#blog" class="nav-link"> Blog</a>
+            <a href="#about" class="nav-link"> About</a>
+        </nav>
+
+        <a href="#contact" class="contact-button">
+            contact us
+        </a>
+        
+        <button class="menu-button">
+            <img src="../image/scanner.png" alt="menubutton" class="menu-icon"/>
+        </button>
+    </div>
+
+    <div class="content">
+
+            <section class="main-section">
+
+                <div class="content-left">
+                    <p class="section-label"> Very proud to introduce</p>
+                    <h1 class="section-title"> Sameless learning brighter futures</h1>
+
+                    <p class="section-description"> Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus porro veritatis quas dolor inventore, maxime eveniet temporibus culpa assumenda totam quidem atque ex voluptates rem, laudantium libero? Aliquam.</p>
+                    <div class="button-group">
+                    <a href="#start" class="start-button"> Start Now</a>
+                     <a href="#tour" class="tour-button">Take Tour </a>
+                     </div>
+                     </div>
+                
+
+                <div class="content-right">
+                    <div class="image-container">
+
+                        <img src="../image/mindfullness.png" alt="Section Image"
+                        class="Section Image"/>
+                    </div>
+                </section>
+                </div>
+                <div class="company-container">
+                    <h2 class="company-title"> Trusted by the best</h2>
+                    
+                    <div class="comapny-grid">
+
+                        <div class="company-logo">
+                              <img src="../image/google.png"  class="svg-img">
+                              <span class="logo-txt">Google</span>
+                        </div>
+                        <div class="company-logo">
+                              <img src="../image/microsoft.png"  class="svg-img">
+                              <span class="logo-txt">Microsoft</span>
+                        </div>
+                        <div class="company-logo">
+                              <img src="../image/linkdin.png"  class="svg-img">
+                              <span class="logo-txt">Linkdin</span>
+                        </div>
+                        <div class="company-logo">
+                              <img src="../image/vectoredu.png"  class="svg-img">
+                              <span class="logo-txt">Vectoredu</span>
+                        </div>
+                    </div>
+                    <!-- 4th part -->
+                    <div class="feature-container">
+                        <div class="feature-content">
+                            <div class="main-info">
+                                <h2 class="main-title">Our Competitive Advantages</h2>
+                                <p class="main-description">
+                                    This is a section of some simple filler text, also known as placeholder text. It shares all characteristics of real written text but is random or otherwise generated.
+                                </p>
+                            </div>
+                  
+                            <div class="feature-grid">
+                                <!-- card 1 -->
+                                <div class="feature-card">
+                                    <div class="icon-container">
+                                        <img class="feature-svg" src="../image/personalize.png">
+                                    </div>
+                                    <div class="feature-info">
+                                        <div class="feature-title">Personalized Learning</div>
+                                        <div class="feature-description">Offer tailored learning experiences through AI machine learning to cater to individual student needs.</div>
+                                    </div>
+                                </div>
+                                <!-- card 2 -->
+                                <div class="feature-card">
+                                    <div class="icon-container">
+                                        <img class="feature-svg" src="../image/affordability.png">
+                                    </div>
+                                    <div class="feature-info">
+                                        <div class="feature-title">Affordability Learning</div>
+                                        <div class="feature-description">Offer tailored learning experiences through AI machine learning to cater to individual student needs.</div>
+                                    </div>
+                                </div>
+                                <!-- card 3 -->
+                                <div class="feature-card">
+                                    <div class="icon-container">
+                                        <img class="feature-svg" src="../image/affor2.png">
+                                    </div>
+                                    <div class="feature-info">
+                                        <div class="feature-title">Affordability Learning</div>
+                                        <div class="feature-description">Offer tailored learning experiences through AI machine learning to cater to individual student needs.</div>
+                                    </div>
+                                </div>
+                                <!-- card 4 -->
+                                <div class="feature-card">
+                                    <div class="icon-container">
+                                        <img class="feature-svg" src="../image/affoed3.png">
+                                    </div>
+                                    <div class="feature-info">
+                                        <div class="feature-title">Futurability Learning</div>
+                                        <div class="feature-description">Offer tailored learning experiences through AI machine learning to cater to individual student needs.</div>
+                                    </div>
+                                </div>
+                                <!-- card 5 -->
+                                <div class="feature-card">
+                                    <div class="icon-container">
+                                        <img class="feature-svg" src="../image/afford5.png">
+                                    </div>
+                                    <div class="feature-info">
+                                        <div class="feature-title">Ability Learning</div>
+                                        <div class="feature-description">Offer tailored learning experiences through AI machine learning to cater to individual student needs.</div>
+                                    </div>
+                                </div>
+                                <!-- card 6 -->
+                                <div class="feature-card">
+                                    <div class="icon-container">
+                                        <img class="feature-svg" src="../image/afford4.png">
+                                    </div>
+                                    <div class="feature-info">
+                                        <div class="feature-title">System Learning</div>
+                                        <div class="feature-description">Offer tailored learning experiences through AI machine learning to cater to individual student needs.</div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- 5th part  -->
+                        <div class="testimonial-container">
+                            <div class="testimonial-content">
+                 <h2 class="testimonial-title">
+                        What Others Says About Us
+                      </h2>
+                 <div class="testimonial-grid">
+                    <!-- card 1 -->
+                    
+                    <div class="testimonial-card">
+                        <div class="testimonial-text">
+                            Studysync transformed our family's learning journey 
+                            ,safe,interactive and progress tracking
+                             features are invaluable for parents
+                        </div>
+                        <div class="testimonial-avatar">
+                            <img src="../image/sharad.png"/>
+
+                        </div>
+                        <div class="testimonial-details">
+                            <h3 class="testimonial-name">
+                                SHARAD MALHOTRA
+                            </h3>
+<p class="testimonial-desc">
+    1st grade actor
+</p>
+                        </div>
+                    </div>
+                    <!-- card 2 -->
+                    <div class="testimonial-card">
+                        <div class="testimonial-text">
+                            Studysync transformed our family's learning journey ,safe,interactive and progress tracking features are invaluable for parents
+                        </div>
+                        <div class="testimonial-avatar">
+                            <img src="../image/kartika.png"/>
+
+                        </div>
+                        <div class="testimonial-details">
+                            <h3 class="testimonial-name">
+                                KARTIKA SENGER
+                            </h3>
+<p class="testimonial-desc">
+    1st grade actor
+</p>
+                        </div>
+                    </div>
+                    <!-- card 3 -->
+                    <div class="testimonial-card">
+                        <div class="testimonial-text">
+                            Studysync transformed our family's learning journey ,safe,interactive and progress tracking features are invaluable for parents
+                        </div>
+                        <div class="testimonial-avatar">
+                            <img src="../image/sumedhmallik.png"/>
+
+                        </div>
+                        <div class="testimonial-details">
+                            <h3 class="testimonial-name">
+                                SUMEDH MALLIKA
+                            </h3>
+<p class="testimonial-desc">
+    1st grade actor
+</p>
+                        </div>
+                    </div>
+
+                    <div class="newsletter-container">
+                        <div class="newsletter-content">
+
+                            <!-- left part -->
+                <div class="news- left">
+                  <img src="../image/studysync.png"  loading="lazy" alt="news-img"/>
+                </div>
+
+                <!-- right part -->
+                <div class="news-right">
+                    <div class="news-info">
+                  <h2 class="news-title">
+                    Get The Latest Updates
+                  </h2>
+                 <p class="news-desc">
+                    Sign Up for our newsletter-container
+                 </p>       
+
+                    </div>
+                 <form class="news-form">
+                   
+                  <input class="news-email" placeholder="Email"/>
+                  <button class="news-send-button">
+                    Send
+                  </button>  
+                 </form>   
+                <div class="Privacy-Policy">
+                    By signing up to our newsletter you agree to our part
+                    <a class="news-link">
+
+                    </a>
+                </div> 
+                </div>
+
+
+<div class="footer-container">
+    <footer class="footer">
+
+        <div class="footer-top">
+            <div class="comp-logo">
+
+                <a class="logo-link" href="#">
+                    <img  class="logo-svg "  src="../image/studysync.png"/>
+                    Studysync
+                </a>
+                <p class="filler-text">
+                    Seamless Learning for Brighter Futures.
+                </p>
+                <div class="Socials">
+                    <a class="social-link" href="#">
+                        <img src="../image/google.png" class="social-icon"/>
+
+                    </a>
+                    <a class="social-link" href="#">
+                        <img src="../image/linkdin.png" class="social-icon"/>
+                        
+                    </a> 
+                    <a class="social-link" href="#">
+                        <img src="../image/microsoft.png" class="social-icon"/>
+                        
+                    </a>     
+                    <a class="social-link" href="#">
+                        <img src="../image/twitter.png" class="social-icon"/>
+                        
+                    </a>     
+                </div>
+                </div>
+                </div>
+            
+        
+        <div class="footer-grid">
+            <!-- column 1 -->
+            <div class="footer-grid-column">
+                <div class="footer-grid-heading">
+                    Products
+                </div>
+                <ul class="footer-links-list">
+                    <li>
+                   <a href="#overview" class="footer-link">
+                    Overview
+                   </a>     
+                    </li>
+                    <li>
+                        <a href="#overview" class="footer-link">
+                         Overview
+                        </a>     
+                         </li>
+                         <li>
+                            <a href="#overview" class="footer-link">
+                             Overview
+                            </a>     
+                             </li>
+                             <li>
+                                <a href="#overview" class="footer-link">
+                                 Overview
+                                </a>     
+                                 </li>    
+
+                </ul>
+            </div>
+            <!-- column 2 -->
+            <div class="footer-grid-column">
+                <div class="footer-grid-heading">
+                    Products
+                </div>
+                <ul class="footer-links-list">
+                    <li>
+                   <a href="#overview" class="footer-link">
+                    Overview
+                   </a>     
+                    </li>
+                    <li>
+                        <a href="#overview" class="footer-link">
+                         Overview
+                        </a>     
+                         </li>
+                         <li>
+                            <a href="#overview" class="footer-link">
+                             Overview
+                            </a>     
+                             </li>
+                             <li>
+                                <a href="#overview" class="footer-link">
+                                 Overview
+                                </a>     
+                                 </li>    
+                                 <li>
+                                    <a href="#overview" class="footer-link">
+                                     Overview
+                                    </a>     
+                                     </li>    
+    
+
+                </ul>
+                </div>
+                <!-- column 3 -->
+                <div class="footer-grid-column">
+                    <div class="footer-grid-heading">
+                        Products
+                    </div>
+                    <ul class="footer-links-list">
+                        <li>
+                       <a href="#overview" class="footer-link">
+                        Overview
+                       </a>     
+                        </li>
+                        <li>
+                            <a href="#overview" class="footer-link">
+                             Overview
+                            </a>     
+                             </li>
+                             <li>
+                                <a href="#overview" class="footer-link">
+                                 Overview
+                                </a>     
+                                 </li>
+                                 <li>
+                                    <a href="#overview" class="footer-link">
+                                     Overview
+                                    </a>     
+                                     </li>    
+    
+                    </ul>
+                </div>
+             
+            <!-- column 4 -->
+            <div class="footer-grid-column">
+                <div class="footer-grid-heading">
+                    Products
+                </div>
+                <ul class="footer-links-list">
+                    <li>
+                   <a href="#overview" class="footer-link">
+                    Overview
+                   </a>     
+                    </li>
+                    <li>
+                        <a href="#overview" class="footer-link">
+                         Overview
+                        </a>     
+                         </li>
+                         <li>
+                            <a href="#overview" class="footer-link">
+                             Overview
+                            </a>     
+                             </li>
+                             
+                </ul>
+            </div>
+
+        </div>
+    </footer>
+    <div class="footer-copyright">
+        &copy; 2021-present Studysync. All rights reserved.
+    </div>
+</body>
+</html>
+                
